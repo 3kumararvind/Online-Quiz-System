@@ -29,4 +29,19 @@ body{
     text-align: center;
     line-height: 1px;
     width:500px;
+    text-decoration: none;
+}
+a{
+     text-decoration: none;
+}
+a:hover{
+    color:crimson;
+    text-decoration: underline;
+    
+}
+.first-round{
+    border: 5px solid white;
+    background-color: green;
+    width: 0px auto;
+    color:aqua;
 }
