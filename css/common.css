@@ -21,7 +21,7 @@ body{
     background-image: url("/images/1.jpg");
     border:5px solid white;
     border-radius: 20px;
-    color:white;
+    color:black;
     margin-top: 50px;
     margin-left:400px;
     font-family: sans-serif;
@@ -31,9 +31,8 @@ body{
     width:500px;
     text-decoration: none;
 }
-a{
-     text-decoration: none;
-}
+
+
 a:hover{
     color:crimson;
     text-decoration: underline;
