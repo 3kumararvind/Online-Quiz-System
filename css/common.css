@@ -1,6 +1,6 @@
 
 body{
-        background-image: url("/images/background.jpg");
+        background-image: url("../images/background.jpg");
         background-size: auto;
 }
 .quiz-title{
@@ -38,10 +38,4 @@ a:hover{
     color:crimson;
     text-decoration: underline;
     
-}
-.first-round{
-    border: 5px solid white;
-    background-color: green;
-    width: 0px auto;
-    color:aqua;
 }
