@@ -22,3 +22,7 @@
     font-weight: bold;
     text-align: center;
 }
+#round_selection_button{
+    width: auto;
+    margin-left:100px;
+}
