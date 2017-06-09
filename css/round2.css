@@ -79,7 +79,7 @@
 }
 .answer-button:hover{
     background-color: greenyellow;
-    cursor: pointer;
+    cursor: pointer;s
     
 }
 .submit-button{
@@ -97,4 +97,8 @@
     background-color: greenyellow;
     cursor: pointer;
     
+}
+#round_selection_button{
+    width:auto;
+    margin-left:100px;
 }
